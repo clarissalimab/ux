@@ -1,8 +1,8 @@
 ---
 name: Usability Tests
 about: Template for designing usability tests
-title: ''
-labels: ''
+title: '<Place the program you are testing on the title>'
+labels: 'in progress'
 assignees: ''
 
 ---
