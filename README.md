@@ -1,4 +1,6 @@
-# UX
+# Usability Testing Artifacts
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 Repositório para testes de usabilidade.
 
@@ -43,3 +45,11 @@ Você pode conferir os testes que já aconteceram [aqui](https://github.com/clar
 5. Reporte os resultados nos comentários da issue correspondente.
 
 6. Rode com mais usuários! :P
+
+# License
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
